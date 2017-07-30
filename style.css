@@ -73,7 +73,7 @@ a {
 }
 
 body {
-  background: url("_img/fundo.jpg") no-repeat center center fixed;
+  background: url("fundo.jpg") no-repeat center center fixed;
   background-position: center center;
   background-size: contain;
 }
